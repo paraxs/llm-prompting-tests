@@ -448,8 +448,9 @@ Nach dem Speichern:
 
 
 
-## 13 ARES-6: ein sechsbeiniger Katastrophen-Roboter, der durch ein eingestürztes Lagerhaus krabbelt, Menschen scannt, Trümmer hebt, eine Mini-Drohne startet und bei Systemfehlern sichtbar ausrastet.
+## 13. ARES-6: ein sechsbeiniger Katastrophen-Roboter, der durch ein eingestürztes Lagerhaus krabbelt, Menschen scannt, Trümmer hebt, eine Mini-Drohne startet und bei Systemfehlern sichtbar ausrastet.
 
+````text
 You are an expert full-stack creative coding agent.
 
 Your task is to build a complete interactive 3D browser simulation from scratch.
@@ -922,12 +923,13 @@ FINAL NOTE:
 Prioritize a working, interactive, visually impressive prototype over perfect robotics physics.
 The goal is not scientific accuracy.
 The goal is a convincing, clickable, zero-shot robot simulation demo.
+````
 
-
-
+---
 
 ## 14. Photoshop Klon
 
+````text
 Build a fully functional, standalone image editor inspired by Photoshop.
 
 The final output must be a single self-contained HTML file that runs locally in the browser without any backend.
@@ -1161,6 +1163,7 @@ Required layer properties:
   locked: boolean
 }
 ```
+````
 
 ---
 
