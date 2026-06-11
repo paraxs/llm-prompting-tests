@@ -1,6 +1,6 @@
 # Prompting Tests für LLMs
 
-12 anspruchsvolle Prompts zum Testen von LLMs, Coding Agents und agentischen Modellen.
+15 anspruchsvolle Prompts zum Testen von LLMs, Coding Agents und agentischen Modellen.
 
 ---
 
@@ -926,7 +926,7 @@ The goal is a convincing, clickable, zero-shot robot simulation demo.
 
 
 
-## Photoshop Klon
+## 14. Photoshop Klon
 
 Build a fully functional, standalone image editor inspired by Photoshop.
 
@@ -1160,3 +1160,20 @@ Required layer properties:
   y: number,
   locked: boolean
 }
+```
+
+---
+
+## 15. Interaktiver 3D-digitaler Zwilling der Erde
+
+```text
+Baue einen vollständig interaktiven 3D-digitalen Zwilling der Erde mit folgenden Funktionen:
+
+Nutzer sollen nahtlos vom Weltraum bis hinunter zu einzelnen Stadtstraßen zoomen können.
+
+Wenn ich mit der Maus über ein Land fahre, soll die Ländergrenze hervorgehoben werden und ein Popup erscheinen, das Statistiken wie Fläche, Bevölkerung und BIP anzeigt.
+
+Zeige einen realistischen Planeten Erde mit Schaltern für atmosphärische Wolkendecke, Flugverkehr und Tag/Nacht. Der Nachtmodus soll Stadtlichter anzeigen.
+
+Verwende kostenlose öffentlich verfügbare Assets, Modelle und Layer, falls nötig. Stelle sicher, dass es effizient in einem normalen Webbrowser lädt.
+```
