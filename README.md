@@ -1198,6 +1198,6 @@ Der Stil soll dynamisch, farbenfroh und actionreich sein: mit Energie-Auren, Mar
 
 ## 17. Auditierter selbstverbessernder Trading-Research-Agent
 
-Ein umfangreicher Master-Prompt für einen Coding Agent, der ein auditierbares, selbstverbesserndes Trading-Forschungssystem aufbaut, testet, im Paper-Modus bereitstellt und an einen lokalen Operator übergibt. Der Prompt enthält harte Sicherheitsgrenzen, Strategie-Recherche, Backtesting, externe Beobachtung, Railway-Deployment und eine ausdrücklich gesperrte Live-Phase.
+Ein umfangreicher Master-Prompt für einen Coding-Agenten, der ein auditierbares, selbstverbesserndes Trading-Forschungssystem aufbaut, testet, im Paper-Modus bereitstellt und an einen lokalen Operator übergibt. Der Prompt enthält verbindliche Sicherheitsgrenzen, Strategie-Recherche, Backtesting, ein externes Audit, Railway-Deployment und eine ausdrücklich gesperrte Live-Phase.
 
 [Vollständigen deutschen Prompt öffnen](prompts/17-auditierter-selbstverbessernder-trading-research-agent.md)
